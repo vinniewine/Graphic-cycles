@@ -1,0 +1,11 @@
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\obj\Debug\Graphic cycles.csproj.AssemblyReference.cache
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\obj\Debug\Graphic cycles.csproj.SuggestedBindingRedirects.cache
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\obj\Debug\Graphic_cycles.Form1.resources
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\obj\Debug\Graphic_cycles.Properties.Resources.resources
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\obj\Debug\Graphic cycles.csproj.GenerateResource.cache
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\obj\Debug\Graphic cycles.csproj.CoreCompileInputs.cache
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\bin\Debug\Graphic cycles.exe.config
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\bin\Debug\Graphic cycles.exe
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\bin\Debug\Graphic cycles.pdb
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\obj\Debug\Graphic cycles.exe
+C:\Users\workd\Documents\project\Graphic-cycles\Graphic cycles\Graphic cycles\obj\Debug\Graphic cycles.pdb
